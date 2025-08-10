@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **ziyankhan00088@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MO-ziyan-khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “Data is the new oil, but AI is the refinery — turning raw info into pure value.”
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MO-ziyan-khan&icon=0&color=0)](https://visitcount.itsvg.in)

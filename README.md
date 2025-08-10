@@ -2,7 +2,7 @@
 **Student grinding hard on Data Science & AI with real projects.**
 Email Me 👉 ✉️ **ziyankhan00088@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 I’m currently working on:MockWise
-- 🌱 I’m currently learning:Data Science ML,GenAI AgenticAI
+- 🌱 I’m currently learning:Data Science ML GenAI AgenticAI
 - 😄 Pronouns:Ziyan Khan
 
 ## 🏆 GitHub Trophies

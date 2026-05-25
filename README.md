@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ziyan Khan
+# 💫 Hi 👋, I'm Jiyan Khan
 **Student grinding hard on Data Science & AI with real projects.**
 Email Me 👉 ✉️ **ziyankhan00088@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 I’m currently working on:MockWise
